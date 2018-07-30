@@ -3,3 +3,4 @@ to track my files
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 I do not know
+ppp
