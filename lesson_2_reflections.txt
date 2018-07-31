@@ -10,3 +10,6 @@ let us see
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 it is to be sure that the thing you trying is good then you can commit
 and if not you do not have to commit it so your history is organized
+
+How do the diagrams help you visualize the branch structure?
+keep it good
