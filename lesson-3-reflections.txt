@@ -11,3 +11,6 @@ branch is ....
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 to know what other people i work with ,commiting
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I need to next to someone if there no githup
